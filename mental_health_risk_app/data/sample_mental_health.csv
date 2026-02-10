@@ -1,0 +1,11 @@
+text,label,user_id,timestamp,group
+I feel hopeless and exhausted every day,depression,u1,2025-01-01,group_a
+Panic attacks keep happening and I cannot sleep,stress,u2,2025-01-02,group_b
+Today I feel better and hopeful,low_risk,u3,2025-01-03,group_a
+I am overwhelmed with deadlines and constant anxiety,stress,u2,2025-01-04,group_b
+Nothing matters anymore and I feel empty,depression,u1,2025-01-05,group_a
+Had a calm day and enjoyed a walk,low_risk,u4,2025-01-06,group_c
+I hate myself and feel alone,depression,u5,2025-01-07,group_b
+Work pressure is making me nervous all the time,stress,u6,2025-01-08,group_c
+Grateful for support from friends today,low_risk,u7,2025-01-09,group_a
+My thoughts are dark and I am very tired,depression,u1,2025-01-10,group_a
